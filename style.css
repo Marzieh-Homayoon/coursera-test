@@ -17,7 +17,7 @@ body{
   border-radius:0;
 }
 #logo-img {
-  background: url('../images/logo-img.png') no-repeat;
+  background: url('logo-img.png') no-repeat;
   margin-top:20px;
   padding: 60px;  
 }
